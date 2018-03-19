@@ -1042,7 +1042,7 @@
         </Ligacao>
       </Ligacoes>
     </Relacao>
-    <Relacao nome="Relação_1" id="124">
+    <Relacao nome="Matriculado" id="124">
       <Left Valor="411"/>
       <Top Valor="323"/>
       <Width Valor="102"/>
@@ -1089,8 +1089,8 @@
           <MostraCardinalidade Valor="-1" Card_id="126"/>
           <Cardinalidades Cardinalidade="3">
             <Cardinalidade nome="" id="126">
-              <Left Valor="530"/>
-              <Top Valor="293"/>
+              <Left Valor="566"/>
+              <Top Valor="295"/>
               <Width Valor="40"/>
               <Height Valor="20"/>
               <Fonte default="-1"/>
