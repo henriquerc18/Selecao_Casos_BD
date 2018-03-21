@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <MER>
 	<Informacoes>
-		<Posicao Left="0" Top="110"/>
+		<Posicao Left="0" Top="173"/>
 		<TotalItens Valor="109"/>
 		<Tipo Valor="CONCEITUAL"/>
 		<Versao Valor="2.0.0"/>
@@ -575,16 +575,16 @@
       <AutoRelacoes AutoRelacionado="0"/>
       <Especializacoes ehEsp="0"/>
     </Entidade>
-    <Entidade nome="Fornecedores Intenacionais" id="74">
+    <Entidade nome="Fornecedores Internacionais" id="74">
       <Left Valor="409"/>
       <Top Valor="578"/>
-      <Width Valor="161"/>
-      <Height Valor="52"/>
+      <Width Valor="170"/>
+      <Height Valor="55"/>
       <Fonte default="-1"/>
       <Atributos>
         <Atributo nome="Código Interno" id="76">
-          <Left Valor="605"/>
-          <Top Valor="587"/>
+          <Left Valor="614"/>
+          <Top Valor="588"/>
           <Width Valor="111"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -615,8 +615,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Transporte" id="79">
-          <Left Valor="487"/>
-          <Top Valor="688"/>
+          <Left Valor="493"/>
+          <Top Valor="691"/>
           <Width Valor="90"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -647,8 +647,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Telefone" id="82">
-          <Left Valor="513"/>
-          <Top Valor="672"/>
+          <Left Valor="521"/>
+          <Top Valor="675"/>
           <Width Valor="76"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -679,8 +679,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Endereço" id="85">
-          <Left Valor="539"/>
-          <Top Valor="656"/>
+          <Left Valor="549"/>
+          <Top Valor="659"/>
           <Width Valor="79"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -711,8 +711,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Nome" id="88">
-          <Left Valor="605"/>
-          <Top Valor="604"/>
+          <Left Valor="614"/>
+          <Top Valor="606"/>
           <Width Valor="59"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -743,8 +743,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="País" id="91">
-          <Left Valor="461"/>
-          <Top Valor="704"/>
+          <Left Valor="465"/>
+          <Top Valor="707"/>
           <Width Valor="50"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -775,8 +775,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Moeda" id="94">
-          <Left Valor="435"/>
-          <Top Valor="720"/>
+          <Left Valor="437"/>
+          <Top Valor="723"/>
           <Width Valor="65"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -1040,7 +1040,7 @@
           <Cardinalidades Cardinalidade="4">
             <Cardinalidade nome="" id="75">
               <Left Valor="371"/>
-              <Top Valor="589"/>
+              <Top Valor="590"/>
               <Width Valor="40"/>
               <Height Valor="20"/>
               <Fonte default="-1"/>
