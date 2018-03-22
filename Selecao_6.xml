@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <MER>
 	<Informacoes>
-		<Posicao Left="0" Top="173"/>
-		<TotalItens Valor="109"/>
+		<Posicao Left="0" Top="218"/>
+		<TotalItens Valor="125"/>
 		<Tipo Valor="CONCEITUAL"/>
 		<Versao Valor="2.0.0"/>
 		<Autor Valor=""/>
@@ -431,15 +431,15 @@
       <Especializacoes ehEsp="0"/>
     </Entidade>
     <Entidade nome="Fornecedores Nacionais" id="51">
-      <Left Valor="407"/>
-      <Top Valor="461"/>
+      <Left Valor="409"/>
+      <Top Valor="445"/>
       <Width Valor="153"/>
       <Height Valor="65"/>
       <Fonte default="-1"/>
       <Atributos>
         <Atributo nome="Código Interno" id="62">
-          <Left Valor="595"/>
-          <Top Valor="466"/>
+          <Left Valor="597"/>
+          <Top Valor="450"/>
           <Width Valor="111"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -470,8 +470,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Telefone" id="65">
-          <Left Valor="595"/>
-          <Top Valor="505"/>
+          <Left Valor="597"/>
+          <Top Valor="463"/>
           <Width Valor="76"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -502,8 +502,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Nome" id="68">
-          <Left Valor="595"/>
-          <Top Valor="479"/>
+          <Left Valor="597"/>
+          <Top Valor="476"/>
           <Width Valor="59"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -534,8 +534,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Endereço" id="71">
-          <Left Valor="595"/>
-          <Top Valor="492"/>
+          <Left Valor="597"/>
+          <Top Valor="489"/>
           <Width Valor="79"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -565,6 +565,70 @@
             </Ligacao>
           </Ligacoes>
         </Atributo>
+        <Atributo nome="Cidade" id="107">
+          <Left Valor="460"/>
+          <Top Valor="552"/>
+          <Width Valor="65"/>
+          <Height Valor="16"/>
+          <Fonte default="-1"/>
+          <Atributos/>
+          <AtributosOcultos/>
+          <Dicionario></Dicionario>
+          <Nula Valor="0"/>
+          <Observacao></Observacao>
+          <Futuro></Futuro>
+          <Anexos/>
+          <MaxCard Valor="1"/>
+          <MinCard Valor="1"/>
+          <Composto Valor="0"/>
+          <Identificador Valor="0"/>
+          <Tipo Valor="Texto(1)"/>
+          <Multivalorado Valor="0"/>
+          <Orientacao Valor="3"/>
+          <TamAuto Valor="-1"/>
+          <Desvio Valor="10"/>
+          <BarraID Valor="108"/>
+          <Ligacoes>
+            <Ligacao Destino_ID="51">
+              <MostraCardinalidade Valor="0" Card_id="109"/>
+              <Cardinalidades Cardinalidade="4"/>
+              <Orientacao Valor="0"/>
+              <Fraca Valor="0"/>
+            </Ligacao>
+          </Ligacoes>
+        </Atributo>
+        <Atributo nome="CNPJ" id="110">
+          <Left Valor="511"/>
+          <Top Valor="536"/>
+          <Width Valor="54"/>
+          <Height Valor="16"/>
+          <Fonte default="-1"/>
+          <Atributos/>
+          <AtributosOcultos/>
+          <Dicionario></Dicionario>
+          <Nula Valor="0"/>
+          <Observacao></Observacao>
+          <Futuro></Futuro>
+          <Anexos/>
+          <MaxCard Valor="1"/>
+          <MinCard Valor="1"/>
+          <Composto Valor="0"/>
+          <Identificador Valor="-1"/>
+          <Tipo Valor="Texto(1)"/>
+          <Multivalorado Valor="0"/>
+          <Orientacao Valor="3"/>
+          <TamAuto Valor="-1"/>
+          <Desvio Valor="10"/>
+          <BarraID Valor="111"/>
+          <Ligacoes>
+            <Ligacao Destino_ID="51">
+              <MostraCardinalidade Valor="0" Card_id="112"/>
+              <Cardinalidades Cardinalidade="4"/>
+              <Orientacao Valor="0"/>
+              <Fraca Valor="0"/>
+            </Ligacao>
+          </Ligacoes>
+        </Atributo>
       </Atributos>
       <AtributosOcultos/>
       <Dicionario></Dicionario>
@@ -584,7 +648,7 @@
       <Atributos>
         <Atributo nome="Código Interno" id="76">
           <Left Valor="614"/>
-          <Top Valor="588"/>
+          <Top Valor="583"/>
           <Width Valor="111"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -615,8 +679,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Transporte" id="79">
-          <Left Valor="493"/>
-          <Top Valor="691"/>
+          <Left Valor="481"/>
+          <Top Valor="707"/>
           <Width Valor="90"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -647,8 +711,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Telefone" id="82">
-          <Left Valor="521"/>
-          <Top Valor="675"/>
+          <Left Valor="553"/>
+          <Top Valor="659"/>
           <Width Valor="76"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -679,8 +743,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Endereço" id="85">
-          <Left Valor="549"/>
-          <Top Valor="659"/>
+          <Left Valor="614"/>
+          <Top Valor="609"/>
           <Width Valor="79"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -712,7 +776,7 @@
         </Atributo>
         <Atributo nome="Nome" id="88">
           <Left Valor="614"/>
-          <Top Valor="606"/>
+          <Top Valor="596"/>
           <Width Valor="59"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -743,8 +807,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="País" id="91">
-          <Left Valor="465"/>
-          <Top Valor="707"/>
+          <Left Valor="457"/>
+          <Top Valor="723"/>
           <Width Valor="50"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -775,8 +839,8 @@
           </Ligacoes>
         </Atributo>
         <Atributo nome="Moeda" id="94">
-          <Left Valor="437"/>
-          <Top Valor="723"/>
+          <Left Valor="433"/>
+          <Top Valor="739"/>
           <Width Valor="65"/>
           <Height Valor="16"/>
           <Fonte default="-1"/>
@@ -800,6 +864,70 @@
           <Ligacoes>
             <Ligacao Destino_ID="74">
               <MostraCardinalidade Valor="0" Card_id="96"/>
+              <Cardinalidades Cardinalidade="4"/>
+              <Orientacao Valor="0"/>
+              <Fraca Valor="0"/>
+            </Ligacao>
+          </Ligacoes>
+        </Atributo>
+        <Atributo nome="CNPJ" id="113">
+          <Left Valor="529"/>
+          <Top Valor="675"/>
+          <Width Valor="54"/>
+          <Height Valor="16"/>
+          <Fonte default="-1"/>
+          <Atributos/>
+          <AtributosOcultos/>
+          <Dicionario></Dicionario>
+          <Nula Valor="0"/>
+          <Observacao></Observacao>
+          <Futuro></Futuro>
+          <Anexos/>
+          <MaxCard Valor="1"/>
+          <MinCard Valor="1"/>
+          <Composto Valor="0"/>
+          <Identificador Valor="-1"/>
+          <Tipo Valor="Texto(1)"/>
+          <Multivalorado Valor="0"/>
+          <Orientacao Valor="3"/>
+          <TamAuto Valor="-1"/>
+          <Desvio Valor="10"/>
+          <BarraID Valor="114"/>
+          <Ligacoes>
+            <Ligacao Destino_ID="74">
+              <MostraCardinalidade Valor="0" Card_id="115"/>
+              <Cardinalidades Cardinalidade="4"/>
+              <Orientacao Valor="0"/>
+              <Fraca Valor="0"/>
+            </Ligacao>
+          </Ligacoes>
+        </Atributo>
+        <Atributo nome="Cidade" id="116">
+          <Left Valor="505"/>
+          <Top Valor="691"/>
+          <Width Valor="65"/>
+          <Height Valor="16"/>
+          <Fonte default="-1"/>
+          <Atributos/>
+          <AtributosOcultos/>
+          <Dicionario></Dicionario>
+          <Nula Valor="0"/>
+          <Observacao></Observacao>
+          <Futuro></Futuro>
+          <Anexos/>
+          <MaxCard Valor="1"/>
+          <MinCard Valor="1"/>
+          <Composto Valor="0"/>
+          <Identificador Valor="0"/>
+          <Tipo Valor="Texto(1)"/>
+          <Multivalorado Valor="0"/>
+          <Orientacao Valor="3"/>
+          <TamAuto Valor="-1"/>
+          <Desvio Valor="10"/>
+          <BarraID Valor="117"/>
+          <Ligacoes>
+            <Ligacao Destino_ID="74">
+              <MostraCardinalidade Valor="0" Card_id="118"/>
               <Cardinalidades Cardinalidade="4"/>
               <Orientacao Valor="0"/>
               <Fraca Valor="0"/>
@@ -966,7 +1094,7 @@
     </Relacao>
     <Relacao nome="Fornecida(s)" id="52">
       <Left Valor="178"/>
-      <Top Valor="468"/>
+      <Top Valor="452"/>
       <Width Valor="102"/>
       <Height Valor="51"/>
       <Fonte default="-1"/>
@@ -983,8 +1111,8 @@
           <MostraCardinalidade Valor="-1" Card_id="53"/>
           <Cardinalidades Cardinalidade="4">
             <Cardinalidade nome="" id="53">
-              <Left Valor="369"/>
-              <Top Valor="478"/>
+              <Left Valor="371"/>
+              <Top Valor="462"/>
               <Width Valor="40"/>
               <Height Valor="20"/>
               <Fonte default="-1"/>
