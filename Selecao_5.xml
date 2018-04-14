@@ -502,7 +502,7 @@
       <Ligacoes>&#13;
         <Ligacao Destino_ID="1">&#13;
           <MostraCardinalidade Valor="-1" Card_id="4"/>&#13;
-          <Cardinalidades Cardinalidade="3">&#13;
+          <Cardinalidades Cardinalidade="1">&#13;
             <Cardinalidade nome="" id="4">&#13;
               <Left Valor="289"/>&#13;
               <Top Valor="87"/>&#13;
@@ -520,7 +520,7 @@
               <TamAuto Valor="-1"/>&#13;
               <Tipo Valor="0"/>&#13;
               <TextAlin Valor="0"/>&#13;
-              <Card Valor="3"/>&#13;
+              <Card Valor="1"/>&#13;
               <Fixa Valor="0"/>&#13;
               <Ligacoes/>&#13;
             </Cardinalidade>&#13;
@@ -603,7 +603,7 @@
         </Ligacao>&#13;
         <Ligacao Destino_ID="2">&#13;
           <MostraCardinalidade Valor="-1" Card_id="39"/>&#13;
-          <Cardinalidades Cardinalidade="4">&#13;
+          <Cardinalidades Cardinalidade="3">&#13;
             <Cardinalidade nome="" id="39">&#13;
               <Left Valor="821"/>&#13;
               <Top Valor="136"/>&#13;
@@ -621,7 +621,7 @@
               <TamAuto Valor="-1"/>&#13;
               <Tipo Valor="0"/>&#13;
               <TextAlin Valor="0"/>&#13;
-              <Card Valor="4"/>&#13;
+              <Card Valor="3"/>&#13;
               <Fixa Valor="0"/>&#13;
               <Ligacoes/>&#13;
             </Cardinalidade>&#13;
